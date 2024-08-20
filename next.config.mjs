@@ -5,7 +5,6 @@ const nextConfig = {
     workerThreads: true,
   },
   webpack: (config) => config,
-  output: "export",
 };
 
 export default nextConfig;
